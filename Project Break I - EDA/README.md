@@ -46,11 +46,9 @@ El proyecto sigue un enfoque clásico de EDA:
 │ ├── visualizaciones.py# Funciones de gráficos
 │ └── utils.py # Funciones auxiliares
 
-📁 memoria/ # Documento en PDF con el informe completo del proyecto
+📄 Memoria/ # Documento en PDF con el informe completo del proyecto
 
-📁 presentacion/ # Presentación final (PDF)
-
-📄 main.ipynb # Notebook principal con todo el desarrollo y análisis final
+📄 Presentacion/ # Presentación final (PDF)
 
 📄 README.md # Este archivo
 
